@@ -16,9 +16,9 @@ a:link, a:visited, a:focus, a:active {
 }
 
 h1 {
-  font-family: 'Slabo 27px', sans-serif;
+  font-family: 'Capriola', sans-serif;
   font-size: 18px;
-  letter-spacing: 2.5px;
+  /*letter-spacing: 2.5px;*/
   line-height: 35px;
   border-bottom: 1.25px dashed #2d1a44;
 }
