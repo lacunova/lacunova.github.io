@@ -17,7 +17,7 @@ h1 {
   font-size: 20px;
   /*letter-spacing: 2.5px;*/
   line-height: 35px;
-  border-bottom: 1.25px dotted #2d1a44;
+  border-bottom: 1.25px solid #2d1a44;
 }
 
 ul {
@@ -43,5 +43,5 @@ li::before {
   padding-right: 25px;
   background-color: #fff;
   border-radius: 10px;
-  border: 1.25px dotted #2d1a44;
+  border: 1.25px solid #2d1a44;
 }
