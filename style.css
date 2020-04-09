@@ -15,17 +15,11 @@ a:link, a:visited, a:focus, a:active {
 }
 
 .hoverlink {
-  position: static;
   font-size: 35px;
-}
-
-p + br {
-    display: none;
 }
 
 .hoverlink p {
   display: none;
-  color: #000;
 }
 
 .hoverlink:hover p {
@@ -37,6 +31,10 @@ p + br {
   padding: 5px;
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
+}
+
+p + br {
+    display: none;
 }
 
 h1 {
