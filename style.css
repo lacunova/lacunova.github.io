@@ -5,6 +5,11 @@ body {
   font-family: 'Lato', sans-serif;
   color: #fff;
   text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
 
 a:link, a:visited, a:focus, a:active {
@@ -68,8 +73,8 @@ li::before {
 #main {
   display: block;
   margin: auto;
-  width: 450px;
-  height: 450px;
+  width: 425px;
+  height: 425px;
   padding-top: 25px;
   padding-bottom: 25px;
   padding-left: 25px;
