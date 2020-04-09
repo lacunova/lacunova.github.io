@@ -20,6 +20,7 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink p {
   font-size: 0.1px;
+  color: 4951EC;
 }
 
 .hoverlink:hover p {
@@ -28,7 +29,7 @@ a:link, a:visited, a:focus, a:active {
   border: 1.25px solid #000;
   display:inline-block;
   margin:auto;
-  width: 80px;
+  width: 95px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
