@@ -76,3 +76,11 @@ li::before {
   /*border: 1.25px solid #2d1a44;*/
   border:none;
 }
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
