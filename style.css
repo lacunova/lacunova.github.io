@@ -14,6 +14,25 @@ a:link, a:visited, a:focus, a:active {
   border-bottom: 1px dashed #443e13*/;
 }
 
+.hoverlink {
+  font-size: 35px;
+}
+
+.hoverlink p {
+  display: none;
+}
+
+.hoverlink:hover p {
+  background-color: #fff;
+  color: #4951EC;
+  border: 1.25px solid #000;
+  height: 25px;
+  width: 100px;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+}
+
 h1 {
   font-family: 'Capriola', sans-serif;
   font-size: 47.5px;
