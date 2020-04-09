@@ -46,8 +46,8 @@ a:link, a:visited, a:focus, a:active {
 h1 {
   font-family: 'Capriola', sans-serif;
   font-size: 47.5px;
-  bottom: 50px;
-  left: 100px;
+  padding-right: 100px;
+  bottom: 100px;
   /*letter-spacing: 2.5px;*/
   line-height: 10px;
   /*border-bottom: 1.25px solid #2d1a44;*/
