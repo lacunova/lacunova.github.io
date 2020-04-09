@@ -16,7 +16,7 @@ a:link, a:visited, a:focus, a:active {
 
 h1 {
   font-family: 'Capriola', sans-serif;
-  font-size: 50px;
+  font-size: 47.5px;
   /*letter-spacing: 2.5px;*/
   line-height: 10px;
   /*border-bottom: 1.25px solid #2d1a44;*/
@@ -39,12 +39,12 @@ li::before {
   display: block;
   margin: auto;
   width: 400px;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
   background-color: #4951EC;
-  border-radius: 50px;
+  border-radius: 60px;
   /*border: 1.25px solid #2d1a44;*/
   border:none;
 }
