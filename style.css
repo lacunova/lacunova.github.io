@@ -22,8 +22,8 @@ a:link, a:visited, a:focus, a:active {
 .hoverlink p {
   font-size: 0.1px;
   position: inherit;
-  top: 17.5px;
-  left: 15px;
+  top: 16px;
+  left: 20px;
   color: 4951EC;
 }
 
