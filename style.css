@@ -16,6 +16,7 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink {
   font-size: 35px;
+  position: fixed;
 }
 
 .hoverlink p {
