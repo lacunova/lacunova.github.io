@@ -19,7 +19,7 @@ a:link, a:visited, a:focus, a:active {
 }
 
 .hoverlink p {
-  display: none;
+  font-size: 3px;
 }
 
 .hoverlink:hover p {
