@@ -35,8 +35,7 @@ h2 + br {
   background-color: rgba(255, 255, 255, 1);
   color: #4951EC;
   border: 1.25px solid #000;
-  align-content: center;
-  height: 25px;
+  height: 50px;
   width: 75px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
