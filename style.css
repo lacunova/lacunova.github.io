@@ -16,10 +16,10 @@ a:link, a:visited, a:focus, a:active {
 
 h1 {
   font-family: 'Capriola', sans-serif;
-  font-size: 40px;
+  font-size: 50px;
   /*letter-spacing: 2.5px;*/
-  /*line-height: 35px;
-  border-bottom: 1.25px solid #2d1a44;*/
+  line-height: 10px;
+  /*border-bottom: 1.25px solid #2d1a44;*/
 }
 
 ul {
@@ -32,7 +32,7 @@ ul {
 }
 
 li::before {
-    content: "💜 ";
+    content: "👾 ";
 }
 
 #main {
@@ -43,8 +43,8 @@ li::before {
   padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #2d1a44;
-  border-radius: 25px;
+  background-color: #4951EC;
+  border-radius: 50px;
   /*border: 1.25px solid #2d1a44;*/
   border:none;
 }
