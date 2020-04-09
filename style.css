@@ -40,6 +40,90 @@ a:link, a:visited, a:focus, a:active {
   font-size: 20px;
 }
 
+.hoverlink2 {
+  font-size: 35px;
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+
+.hoverlink2 p {
+  display: none;
+  position: inherit;
+  top: 16px;
+  left: 50px;
+  color: 4951EC;
+}
+
+.hoverlink2:hover p {
+  background-color: #fff;
+  color: #4951EC;
+  border: 1.25px solid #000;
+  display: inline-block;
+  text-decoration: underline;
+  margin:auto;
+  width: 95px;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+}
+
+.hoverlink3 {
+  font-size: 35px;
+  position: static;
+  top: 40px;
+  left: 60px;
+}
+
+.hoverlink3 p {
+  display: none;
+  position: inherit;
+  top: 16px;
+  left: 50px;
+  color: 4951EC;
+}
+
+.hoverlink3:hover p {
+  background-color: #fff;
+  color: #4951EC;
+  border: 1.25px solid #000;
+  display: inline-block;
+  text-decoration: underline;
+  margin:auto;
+  width: 95px;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+}
+
+.hoverlink4 {
+  font-size: 35px;
+  position: static;
+  top: 60px;
+  left: 90px;
+}
+
+.hoverlink4 p {
+  display: none;
+  position: inherit;
+  top: 16px;
+  left: 50px;
+  color: 4951EC;
+}
+
+.hoverlink4:hover p {
+  background-color: #fff;
+  color: #4951EC;
+  border: 1.25px solid #000;
+  display: inline-block;
+  text-decoration: underline;
+  margin:auto;
+  width: 95px;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+}
+
 h1 {
   font-family: 'Capriola', sans-serif;
   font-size: 47.5px;
