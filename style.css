@@ -16,7 +16,7 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink {
   position: static;
-  font-size: 25px;
+  font-size: 35px;
 }
 
 p + br {
@@ -27,6 +27,7 @@ p + br {
   display: none;
   color: #000;
 }
+
 .hoverlink:hover p {
   background-color: #fff;
   color: #4951EC;
