@@ -4,7 +4,6 @@ body {
   background-size: 700px;
   font-family: 'Lato', sans-serif;
   color: #fff;
-  text-align: center;
   position: fixed;
   /* bring your own prefixes */
 }
@@ -49,6 +48,7 @@ a:link, a:visited, a:focus, a:active {
 h1 {
   font-family: 'Capriola', sans-serif;
   font-size: 47.5px;
+  text-align: center;
   /*letter-spacing: 2.5px;*/
   line-height: 10px;
   /*border-bottom: 1.25px solid #2d1a44;*/
