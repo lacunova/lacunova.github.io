@@ -36,10 +36,10 @@ h2 + br {
   color: #4951EC;
   border: 1.25px solid #000;
   height: 50px;
+  width: 200px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
-  display: block;
 }
 
 h1 {
