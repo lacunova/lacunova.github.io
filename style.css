@@ -20,10 +20,10 @@ a:link, a:visited, a:focus, a:active {
 }
 
 .hoverlink p {
-  font-size: 0.1px;
+  display: none;
   position: inherit;
   top: 16px;
-  left: 20px;
+  left: 50px;
   color: 4951EC;
 }
 
@@ -31,7 +31,7 @@ a:link, a:visited, a:focus, a:active {
   background-color: #fff;
   color: #4951EC;
   border: 1.25px solid #000;
-  display:inline-block;
+  display: inline-block;
   margin:auto;
   width: 95px;
   padding: 5px;
