@@ -3,7 +3,6 @@ body {
   background-image: url("/bgv2.png");
   background-size: 700px;
   font-family: 'Lato', sans-serif;
-  font-size: 15px;
   color: #fff;
   text-align: center;
 }
@@ -17,7 +16,7 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink {
   position: static;
-  font-size: 12px;
+  font-size: 25px;
 }
 
 div + br {
@@ -37,7 +36,7 @@ h2 + br {
   color: #4951EC;
   border: 1.25px solid #000;
   font-family: 'Inconsolata', monospace;
-  font-size: 9px;
+  font-size: 20px;
   display: block;
 }
 
