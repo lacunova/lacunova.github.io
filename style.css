@@ -36,7 +36,6 @@ p + br {
 .hoverlink:hover p {
   background-color: #fff;
   text-align: center;
-  bottom: 70px;
   left: 70px;
   color: #4951EC;
   border: 1.25px solid #000;
