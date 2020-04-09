@@ -19,12 +19,14 @@ a:link, a:visited, a:focus, a:active {
 }
 
 .hoverlink p {
+  display: none;
 }
 
 .hoverlink:hover p {
   background-color: #fff;
   color: #4951EC;
   border: 1.25px solid #000;
+  width: 80px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
   font-size: 20px;
