@@ -19,19 +19,15 @@ a:link, a:visited, a:focus, a:active {
   font-size: 25px;
 }
 
-div + br {
+p + br {
     display: none;
 }
 
-h2 + br {
-    display: none;
-}
-
-.hoverlink h2 {
+.hoverlink p {
   display: none;
   color: #000;
 }
-.hoverlink:hover h2 {
+.hoverlink:hover p {
   background-color: #fff;
   color: #4951EC;
   border: 1.25px solid #000;
