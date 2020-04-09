@@ -30,15 +30,13 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink:hover p {
   background-color: #fff;
-  text-align: left;
+  text-align: center;
+  bottom: 50px;
+  left: 50px;
   color: #4951EC;
   border: 1.25px solid #000;
   display: inline-block;
   text-decoration: underline;
-  margin:auto;
-  position: inherit;
-  bottom: 50px;
-  left: 50px;
   width: 95px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
