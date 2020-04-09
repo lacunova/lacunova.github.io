@@ -29,13 +29,14 @@ a:link, a:visited, a:focus, a:active {
 }
 
 p + br {
-  display: none;
+  bottom: 40px;
+  left: 50px;
 }
 
 .hoverlink:hover p {
   background-color: #fff;
   text-align: center;
-  bottom: 50px;
+  bottom: 40px;
   left: 50px;
   color: #4951EC;
   border: 1.25px solid #000;
