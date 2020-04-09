@@ -22,7 +22,7 @@ h1 {
 }
 
 ul {
-    width: 400px;
+    width: 300px;
     text-align: justify;
     display: block;
     margin: auto;
@@ -37,12 +37,13 @@ li::before {
 #main {
   display: block;
   margin: auto;
-  width: 525px;
+  width: 400px;
   padding-top: 0px;
-  padding-bottom: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   background-color: #fff;
-  border-radius: 10px;
-  border: 1.25px solid #2d1a44;
+  /*border-radius: 15px;
+  border: 1.25px solid #2d1a44;*/
+  border:none;
 }
