@@ -8,7 +8,7 @@ body {
 }
 
 a:link, a:visited, a:focus, a:active {
-  color: #fff;
+  color: #4951EC;
   text-decoration: none;
   /*#30085e;
   border-bottom: 1px dashed #443e13*/;
@@ -32,6 +32,7 @@ a:link, a:visited, a:focus, a:active {
   color: #4951EC;
   border: 1.25px solid #000;
   display: inline-block;
+  text-decoration: underline;
   margin:auto;
   width: 95px;
   padding: 5px;
