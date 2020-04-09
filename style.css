@@ -22,7 +22,7 @@ a:link, a:visited, a:focus, a:active {
 .hoverlink p {
   display: none;
   position: inherit;
-  top: 16px;
+  bottom: 50px;
   left: 50px;
   color: 4951EC;
 }
@@ -34,6 +34,9 @@ a:link, a:visited, a:focus, a:active {
   display: inline-block;
   text-decoration: underline;
   margin:auto;
+  position: inherit;
+  bottom: 50px;
+  left: 50px;
   width: 95px;
   padding: 5px;
   font-family: 'Inconsolata', monospace;
