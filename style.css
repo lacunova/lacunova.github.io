@@ -19,7 +19,7 @@ a:link, a:visited, a:focus, a:active {
   font-size: 35px;
   text-align: left;
   padding-left: 30px;
-  border-left 1.25px solid #fff;
+  border-left: 1.25px solid #fff;
   position: static;
 }
 
