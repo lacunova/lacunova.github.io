@@ -24,7 +24,7 @@ a:link, a:visited, a:focus, a:active {
 .hoverlink p {
   display: none;
   position: inherit;
-  color: 4951EC;
+  color: #4951EC;
 }
 
 .hoverlink:hover p {
