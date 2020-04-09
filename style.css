@@ -1,7 +1,7 @@
 body {
   background-color: #4951EC;
   background-image: url("/bgv2.png");
-  background-size: 450px;
+  background-size: 700px;
   font-family: 'Lato', sans-serif;
   font-size: 15px;
   color: #fff;
@@ -13,6 +13,21 @@ a:link, a:visited, a:focus, a:active {
   text-decoration: none;
   /*#30085e;
   border-bottom: 1px dashed #443e13*/;
+}
+
+.hoverlink {
+    position: absolute;
+}
+
+.hoverlinl p {
+  display: none;
+  color: #000000;
+}
+.hoverlink:hover p {
+  background-color: rgba(255, 255, 255, 1);
+  border: 1.25px solid #000;
+  font-family: 'Inconsolata', serif;
+  display: block;
 }
 
 h1 {
