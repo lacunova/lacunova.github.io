@@ -18,17 +18,20 @@ a:link, a:visited, a:focus, a:active {
 
 .hoverlink {
   font-size: 35px;
+  text-align: left;
   position: static;
 }
 
 .hoverlink p {
   display: none;
+  text-align: left;
   position: inherit;
   color: #4951EC;
 }
 
 .hoverlink:hover p {
   background-color: #fff;
+  text-align: left;
   color: #4951EC;
   border: 1.25px solid #000;
   display: inline-block;
