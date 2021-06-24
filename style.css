@@ -27,19 +27,18 @@ p + br {
 }
 
 .tooltip {
-    font-size: 35px;
+    font-size: 45px;
     text-align: left;
     padding-left: 30px;
     position: static;
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
     visibility: hidden;
     background-color: #fff;
-    left: 70px;
+    left: 200px;
     color: #4951EC;
     text-align: center;
     border: 1.25px solid #000;
