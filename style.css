@@ -14,19 +14,7 @@ a:link, a:visited, a:focus, a:active {
   /*#30085e;*/
 }
 
-.hoverlink {
-  font-size: 35px;
-  text-align: left;
-  padding-left: 30px;
-  position: static;
-  transition: all 0.2s ease-in-out;
-  -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
-  -ms-transition: all 0.2s ease-in-out;
-  -o-transition: all 0.2s ease-in-out;
-}
-
-.hoverlink p {
+p {
   display: none;
   text-align: left;
   position: inherit;
@@ -38,17 +26,41 @@ p + br {
   left: 50px;
 }
 
-.hoverlink:hover p {
-  background-color: #fff;
-  text-align: center;
-  left: 70px;
-  color: #4951EC;
-  border: 1.25px solid #000;
-  display: inline;
-  text-decoration: underline;
-  padding: 5px;
-  font-family: 'FantasqueSansMonoRegular', monospace;
-  font-size: 20px;
+.tooltip {
+    font-size: 35px;
+    text-align: left;
+    padding-left: 30px;
+    position: static;
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: #fff;
+    left: 70px;
+    color: #4951EC;
+    text-align: center;
+    border: 1.25px solid #000;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    display: inline;
+    text-decoration: underline;
+    font-family: 'FantasqueSansMonoRegular', monospace;
+    font-size: 20px;
+
+    opacity: 0;
+    transition: opacity 0.4s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
 }
 
 h1 {
