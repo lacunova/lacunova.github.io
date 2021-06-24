@@ -33,6 +33,7 @@ p + br {
     position: static;
     position: relative;
     display: inline-block;
+    text-decoration: none;
 }
 
 .tooltip .tooltiptext {
