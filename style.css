@@ -87,8 +87,8 @@ li::before {
 #main {
   display: block;
   margin: auto;
-  width: 375px;
-  height: 375px;
+  width: 400px;
+  height: 400px;
   padding-top: 20px;
   padding-bottom: 5px;
   padding-left: 20px;
