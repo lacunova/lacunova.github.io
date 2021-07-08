@@ -90,11 +90,11 @@ li::before {
   width: 400px;
   height: 400px;
   padding-top: 20px;
-  padding-bottom: 5px;
+  padding-bottom: 50px;
   padding-left: 20px;
   padding-right: 20px;
   background-color: #4951EC;
-  border-radius: 75px;
+  border-radius: 10px;
   /*border: 1.25px solid #2d1a44;*/
   border:none;
 }
