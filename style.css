@@ -66,10 +66,9 @@
 	  font-size: 50px;
 	  text-align: center;
 	  line-height: 10px;
-	}
+	}*/
 
 	ul {
-	    width: 300px;
 	    text-align: justify;
 	    display: block;
 	    margin: auto;
@@ -77,6 +76,7 @@
 	    list-style-position: inside;
 	}
 
+	/*
 	#main {
 	  display: block;
 	  margin: auto;
