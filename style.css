@@ -1,100 +1,18 @@
-/*
-	body {
-	  background-color: #4951EC;
-	  background-image: url("/bgv2.png");
-	  background-size: 700px;
-	  font-family: 'Lato', sans-serif;
-	  color: #fff;
-	  position: fixed;
-	}
+body {
+	background-color: #fff;
+	font-family: 'Lato', sans-serif;
+}
 
-	a:link, a:visited, a:focus, a:active {
-	  color: #4951EC;
-	  text-decoration: none;
-	}
+h1 {
+  font-family: 'Capriola', sans-serif;
+  font-size: 50px;
+  line-height: 10px;
+}
 
-	p {
-	  display: none;
-	  text-align: left;
-	  position: inherit;
-	  color: #4951EC;
-	}
-
-	p + br {
-	  bottom: 40px;
-	  left: 50px;
-	}
-
-	.tooltip {
-	    font-size: 45px;
-	    text-align: left;
-	    padding-left: 30px;
-	    position: static;
-	    position: relative;
-	    display: inline-block;
-	    text-decoration: none;
-	}
-
-	.tooltip .tooltiptext {
-	  visibility: hidden;
-	  background-color: #fff;
-	  color: #4951EC;
-	  text-align: center;
-	  border: 1.25px solid #000;
-	  padding: 7px;
-	  position: absolute;
-	  z-index: 1;
-	  left: 75%;
-	  margin-left: 30px;
-	  display: inline;
-	  text-decoration: underline;
-	  font-family: 'FantasqueSansMonoRegular', monospace;
-	  font-size: 20px;
-	  opacity: 0;
-	  transition: opacity 0.4s;
-	  width: max-content;
-	  top: 7.5px;
-	}
-
-	.tooltip:hover .tooltiptext {
-	    visibility: visible;
-	    opacity: 1;
-	}
-
-	h1 {
-	  font-family: 'Capriola', sans-serif;
-	  font-size: 50px;
-	  text-align: center;
-	  line-height: 10px;
-	}*/
-
-	ul {
-	    text-align: justify;
-	    display: block;
-	    margin: auto;
-	    list-style: none;
-	    list-style-position: inside;
-	}
-
-	/*
-	#main {
-	  display: block;
-	  margin: auto;
-	  width: 375px;
-	  height: 375px;
-	  padding-top: 20px;
-	  padding-bottom: 5px;
-	  padding-left: 20px;
-	  padding-right: 20px;
-	  background-color: #4951EC;
-	  border-radius: 75px;
-	  border:none;
-	}
-
-	.centered {
-	  position: fixed;
-	  top: 50%;
-	  left: 50%;
-	  transform: translate(-50%, -50%);
-	}
-/*
+ul {
+    text-align: justify;
+    display: block;
+    margin: auto;
+    list-style: none;
+    list-style-position: inside;
+}
