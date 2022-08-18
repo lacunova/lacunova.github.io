@@ -1,12 +1,16 @@
 body {
 	background-color: #fff;
-	font-family: 'Lato', sans-serif;
+	font-family: dico-mono, mono;
+	font-weight: 400;
+	font-style: italic;
 }
 
 h1 {
-  font-family: 'Capriola', sans-serif;
-  font-size: 50px;
-  line-height: 10px;
+	font-family: dico-mono-script, mono;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	line-height: 10px;
 }
 
 ul {
