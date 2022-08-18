@@ -77,10 +77,6 @@
 	    list-style-position: inside;
 	}
 
-	li::before {
-	    content: "👾 ";
-	}
-
 	#main {
 	  display: block;
 	  margin: auto;
